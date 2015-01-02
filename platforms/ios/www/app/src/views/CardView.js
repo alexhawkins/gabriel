@@ -19,21 +19,24 @@ define(function(require, exports, module) {
     };
 
     function _createBackground() {
-      var backgroundSurface = new Surface({
+      this.backgroundSurface = new Surface({
         size: [this.options.width, this.options.height],
+        content: this.options.height,
         properties: {
           backgroundColor: 'white',
           boxShadow: '0 0 1px rgba(0, 0, 0, 1)',
-          borderRadius: '5px'
+          borderRadius: '6px'
+
         }
       });
 
-      var backgroundModifier = new StateModifier({
+      this.backgroundModifier = new StateModifier({
         origin: [0.5, 0.5],
-        align: [0.5, 0.5]
+        align: [0.5, 0.5],
+        transform: Transform.inFront
       });
 
-      this.add(backgroundModifier).add(backgroundSurface);
+      this.add(this.backgroundModifier).add(this.backgroundSurface);
     }
     module.exports = CardView;
 });

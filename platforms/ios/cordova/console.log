@@ -12,3 +12,31 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2014-12-31 21:57:01.333 Gabriel[58627:194596] Resetting plugins due to page load.
 2014-12-31 21:57:01.439 Gabriel[58627:194596] Finished load of: file:///Users/alexhawkins/Library/Developer/CoreSimulator/Devices/BF97ACAE-73E6-458D-A217-41AE4A598CE2/data/Containers/Bundle/Application/4F90407D-4698-4A14-B3AA-81905C02AA24/Gabriel.app/www/app/index.html
+2015-01-01 17:55:23.751 Gabriel[31228:638729] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhawkins/Library/Developer/CoreSimulator/Devices/BF97ACAE-73E6-458D-A217-41AE4A598CE2/data/Containers/Data/Application/B71F8F0F-A689-4A95-8D31-28353AB832B6/Library/Cookies/Cookies.binarycookies
+2015-01-01 17:55:24.018 Gabriel[31228:638729] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-01 17:55:24.019 Gabriel[31228:638729] Multi-tasking -> Device: YES, App: YES
+2015-01-01 17:55:24.038 Gabriel[31228:638729] Unlimited access to network resources
+2015-01-01 17:55:24.049 Gabriel[31228:638729] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-01 17:55:24.810 Gabriel[31228:638729] Resetting plugins due to page load.
+2015-01-01 17:55:24.925 Gabriel[31228:638729] Finished load of: file:///Users/alexhawkins/Library/Developer/CoreSimulator/Devices/BF97ACAE-73E6-458D-A217-41AE4A598CE2/data/Containers/Bundle/Application/06DC9ED0-EC95-4F66-99E5-300A00275F70/Gabriel.app/www/app/index.html
+2015-01-01 18:05:43.159 Gabriel[55370:670460] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alexhawkins/Library/Developer/CoreSimulator/Devices/BF97ACAE-73E6-458D-A217-41AE4A598CE2/data/Containers/Data/Application/E055003F-1786-4B6D-8CD8-4659F5E8EBF1/Library/Cookies/Cookies.binarycookies
+2015-01-01 18:05:43.481 Gabriel[55370:670460] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-01 18:05:43.481 Gabriel[55370:670460] Multi-tasking -> Device: YES, App: YES
+2015-01-01 18:05:43.500 Gabriel[55370:670460] Unlimited access to network resources
+2015-01-01 18:05:43.511 Gabriel[55370:670460] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-01 18:05:44.819 Gabriel[55370:670460] Resetting plugins due to page load.
+2015-01-01 18:05:44.897 Gabriel[55370:670460] Finished load of: file:///Users/alexhawkins/Library/Developer/CoreSimulator/Devices/BF97ACAE-73E6-458D-A217-41AE4A598CE2/data/Containers/Bundle/Application/E3E33E3C-37A5-4DB8-AB4D-868DACCB0013/Gabriel.app/www/app/index.html
